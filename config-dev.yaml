@@ -1,2 +1,2 @@
-config
+config:
   info: master,dev,version=1
